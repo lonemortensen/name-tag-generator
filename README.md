@@ -31,6 +31,9 @@ During this project, I practiced:
 - CSS3
 - HTML5
 
+## Launch
+[See the live version of the Name Tag Generator app here.](https://1f6ixl.csb.app/)
+
 ## Acknowledgements
 
 **Skillcrush** - I coded the Name Tag Generator app's React files with support and guidance from Skillcrush. The app's HTML and CSS files and their contents were provided by Skillcrush.  
